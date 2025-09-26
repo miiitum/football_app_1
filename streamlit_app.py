@@ -3,6 +3,9 @@ import math
 import numpy as np
 import plotly.graph_objects as go
 import streamlit as st
+from streamlit_plotly_events import plotly_events
+from scipy.optimize import minimize
+
 
 # ----------------------------------
 # Helper physics functions
