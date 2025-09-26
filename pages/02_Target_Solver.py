@@ -6,7 +6,7 @@ from streamlit_plotly_events import plotly_events
 from scipy.optimize import minimize
 
 st.set_page_config(page_title="Target Solver – Tap to Aim", layout="wide")
-st.title("🎯 Tap the Goal – Inverse Solver for Aim & RPM")
+st.title("Tap the Goal – Inverse Solver for Aim & RPM")
 
 st.markdown("""
 Tap (or click) on the goal to choose where you want the ball to hit.  
