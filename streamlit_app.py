@@ -155,7 +155,7 @@ def goal_hit_verdict(crossed_goal, y_at_goal, z_at_goal, goal_w, goal_h):
 # UI
 # ----------------------------------
 st.set_page_config(page_title="Two-Wheel Football Launcher", layout="wide")
-st.title("Two-Flywheel Football Launcher – Physics + Goal Visualization")
+st.title("Football Launcher Physics App")
 
 with st.sidebar:
     st.header("Flywheels (vertical stack)")
